@@ -5,7 +5,7 @@ Amor ❌ código ✅
 
 ---------------------------------------
 
-![image](https://media.discordapp.net/attachments/952559002959622194/954006702938783844/Screenshot_3.png?width=790&height=427)
+![image](https://media.discordapp.net/attachments/952559002959622194/954013967313948732/Screenshot_3.png?width=726&height=427)
 
 ---------------------------------------
 
