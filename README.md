@@ -1,6 +1,11 @@
 ![image](https://media.discordapp.net/attachments/952559002959622194/954006702938783844/Screenshot_3.png?width=790&height=427)
 
-- Bot de divulgação
+#### esse self foi feito por:
+Amor ❌ código ✅
+
+## ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 🌟Marque este repositório se você gostou do meu self!
+
+---
 
 ---------------------------------------
 
