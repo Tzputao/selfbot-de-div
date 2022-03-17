@@ -5,7 +5,7 @@
 ---------------------------------------
 
 ### ❗・Importante
-* De início esta ferramenta requer o [node.js](https://nodejs.org/en/download/)downloads/)
+* De início esta ferramenta requer o [node.js](https://nodejs.org/en/download/)
 
 
 ---------------------------------------
