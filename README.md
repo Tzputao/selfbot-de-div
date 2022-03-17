@@ -1,3 +1,15 @@
+<p align="center">
+<img src="https://img.shields.io/github/languages/top/Tzputao/selfbot-de-div?style=flat-square" </a>
+<img src="https://img.shields.io/github/last-commit/Tzputao/selfbot-de-div?style=flat-square" </a>
+<img src="https://img.shields.io/github/stars/Tzputao/selfbot-de-div?color=444444&label=Stars&style=flat-square" </a>
+<img src="https://img.shields.io/github/forks/Tzputao/selfbot-de-div?color=444444&label=Forks&style=flat-square" </a>
+</p>
+</p>
+<p align="center">
+<a href="https://github.com/Tzputao/Discord-Webhook-Protetor#setting-up-the-api">Configure a API</a> ⋮
+<a href="https://instagram.com/tzfofo">Discord</a>
+</p>
+
 #### esse self foi feito por:
 Amor ❌ código ✅
 
