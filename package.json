@@ -1,0 +1,19 @@
+{
+  "name": "mimo-div",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.1",
+    "colors": "^1.4.0",
+    "discord-selfbot-tools": "^0.0.1",
+    "discord.js": "^12.5.3",
+    "fs": "0.0.1-security",
+    "node-fetch": "^2.6.6"
+  }
+}
