@@ -5,8 +5,6 @@ Amor ❌ código ✅
 
 ## ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 🌟Marque este repositório se você gostou do meu self!
 
----
-
 ---------------------------------------
 
 ### ❗・Importante
